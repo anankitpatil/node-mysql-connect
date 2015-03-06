@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "~4.9.2",
-    "jade": "^1.9.2",
-    "jsdom": "^4.0.2",
-    "mysql": "~2.5.0",
-    "request": "^2.53.0"
+    "mysql": "~2.5.0"
   }
 }
